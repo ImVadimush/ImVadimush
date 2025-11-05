@@ -43,10 +43,6 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImVadimush&show_icons=true&bg_color=0D1117&title_color=E83E8C&text_color=FFFFFF&icon_color=B57FFF&border_color=2F0A45&border_radius=10" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImVadimush&layout=compact&bg_color=0D1117&title_color=E83E8C&text_color=FFFFFF&border_color=2F0A45&border_radius=10" />
 </p>
 
