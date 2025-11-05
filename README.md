@@ -1,12 +1,15 @@
 <h1 align="center">👋 Hi, I'm Vadym</h1>
 <p align="center">
-  🔧 A young developer focused on creating functional, aesthetic, and high-performance web experiences.<br/>
-  💻 I specialize in building unique, complex, and modern websites with attention to every detail.
+  A young developer focused on creating functional, aesthetic, and high-performance web experiences.<br/>
+  I specialize in building unique, complex, and modern websites with attention to every detail.
 </p>
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/28/61DAFB/react.png" width="22"/> Tech Stack
+</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC"/>
@@ -22,14 +25,18 @@
 
 ---
 
-<h2 align="center">🚀 Current Project</h2>
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/28/fab005/rocket.png" width="22"/> Current Project
+</h2>
 <p align="center">
   Building a modern website for <b>ZS Mogilno</b> — designed with precision, built for performance.
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/28/BB86FC/combo-chart.png" width="22"/> GitHub Stats
+</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ImVadimush&show_icons=true&bg_color=0D1117&title_color=E83E8C&text_color=FFFFFF&icon_color=BB86FC&border_color=2F0A45" />
 </p>
@@ -40,7 +47,9 @@
 
 ---
 
-<h2 align="center">☕ Support Me</h2>
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/28/E83E8C/coffee-to-go.png" width="22"/> Support Me
+</h2>
 <p align="center">
   <a href="https://t.me/YourTelegram" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=E83E8C"/>
