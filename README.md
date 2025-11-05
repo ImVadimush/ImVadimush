@@ -71,5 +71,5 @@
 ---
 
 <h3 align="center">
-  <img src="https://img.icons8.com/fluency/28/BB86FC/heart-with-pulse.png" width="22"/> Live as if it were your last day
+  Live as if it were your last day
 </h3>
