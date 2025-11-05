@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm Vadym</h1>
+<h1 align="center">
+  <img src="https://img.icons8.com/fluency/48/E83E8C/source-code.png" width="42" style="vertical-align: middle;"/> Hi, I'm Vadym
+</h1>
 
 <p align="center">
   A young developer passionate about building functional, aesthetic, and high-performance web experiences.<br/>
@@ -8,7 +10,7 @@
 ---
 
 <h2 align="center">
-  ⚙️ Tech Stack
+  <img src="https://img.icons8.com/fluency/28/61DAFB/react.png" width="26"/> Tech Stack
 </h2>
 
 <p align="center">
@@ -27,7 +29,7 @@
 ---
 
 <h2 align="center">
-  🚀 Current Project
+  <img src="https://img.icons8.com/fluency/28/E83E8C/rocket.png" width="26"/> Current Project
 </h2>
 
 <p align="center">
@@ -37,7 +39,7 @@
 ---
 
 <h2 align="center">
-  📊 GitHub Stats
+  <img src="https://img.icons8.com/fluency/28/BB86FC/combo-chart.png" width="26"/> GitHub Stats
 </h2>
 
 <p align="center">
@@ -51,7 +53,7 @@
 ---
 
 <h2 align="center">
-  ☕ Support Me
+  <img src="https://img.icons8.com/fluency/28/F78DA7/coffee-to-go.png" width="26"/> Support Me
 </h2>
 
 <p align="center">
@@ -68,4 +70,6 @@
 
 ---
 
-<h3 align="center">💬 Live as if it were your last day</h3>
+<h3 align="center">
+  <img src="https://img.icons8.com/fluency/28/BB86FC/heart-with-pulse.png" width="22"/> Live as if it were your last day
+</h3>
