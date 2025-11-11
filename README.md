@@ -49,7 +49,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://img.icons8.com/fluency/28/F78DA7/coffee-to-go.png" width="26"/> My links and Support Me
+  <img src="https://img.icons8.com/fluency/28/F78DA7/coffee-to-go.png" width="26"/> My links
 </h2>
 
 <p align="center">
