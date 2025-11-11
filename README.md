@@ -10,7 +10,7 @@
 ---
 
 <h2 align="center">
-  <img src="[https://img.icons8.com/fluency/28/61DAFB/react.png](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg)" width="26"/> Tech Stack
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg" width="26" alt="Tech"/> Tech Stack
 </h2>
 
 <p align="center">
