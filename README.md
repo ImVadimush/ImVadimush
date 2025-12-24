@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  A young developer passionate about building functional, aesthetic, and high-performance web experiences.<br/>
-  I create unique and complex websites — designed with precision and style.
+  I can build real, advanced, and secure websites with the help of AI, and
+  I have started learning Java backend development with Spring Boot.
 </p>
 
 ---
@@ -14,13 +14,12 @@
 </h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E83E8C"/>
   <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=68A063"/>
-  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=E83E8C"/>
 </p>
 
 ---
@@ -30,7 +29,7 @@
 </h2>
 
 <p align="center">
-  Building a modern website for <b>ZS Mogilno</b> — crafted for speed, elegance, and simplicity.
+  Learning Java backend development using Spring Boot — building skills step by step.
 </p>
 
 ---
