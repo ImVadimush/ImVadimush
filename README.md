@@ -24,26 +24,6 @@
 ---
 
 <h2 align="center">
-  <img src="https://img.icons8.com/fluency/28/E83E8C/rocket.png" width="26"/> Current Project
-</h2>
-
-<p align="center">
-  Learning Java backend development using Spring Boot — building skills step by step.
-</p>
-
----
-
-<h2 align="center">
-  <img src="https://img.icons8.com/fluency/28/BB86FC/combo-chart.png" width="26"/> GitHub Stats
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImVadimush&layout=compact&bg_color=0D1117&title_color=E83E8C&text_color=FFFFFF&border_color=2F0A45&border_radius=10" />
-</p>
-
----
-
-<h2 align="center">
   <img src="https://img.icons8.com/fluency/28/F78DA7/coffee-to-go.png" width="26"/> My links
 </h2>
 
